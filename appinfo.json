@@ -1,0 +1,22 @@
+{
+  "uuid": "0a5c9ec7-f423-4c25-973e-9bfd50e1715f",
+  "shortName": "Bitstack",
+  "longName": "Bitstack",
+  "companyName": "Labcats",
+  "versionCode": 4,
+  "versionLabel": "4.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_binary_watch.png"
+      }
+    ]
+  }
+}
